@@ -1,12 +1,12 @@
 [
     {
-        "question": "What is the capital of France?",
-        "choices": ["Paris", "Berlin", "Madrid", "Rome"],
-        "answer": "Paris"
+        "question": "Cloud Kicks社にはプロダクトオーナーのチームがあり、プロダクトチームだけでフィードバックやアイデアを共有するスペースが必要です。チームのコラボレーションを支援するために、管理者はSalesforceをどのように活用すべきでしょうか。",
+        "choices": ["クイックアクションを使用してコミュニケーションを記録する。", "Chatter公開グループを設定する。", "Chatter非公開グループを作成する。", "活動履歴を追加して、Todoを文書化する。"],
+        "answer": "Chatter非公開グループを作成する。"
     },
     {
-        "question": "Which planet is known as the Red Planet?",
-        "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
-        "answer": "Mars"
+        "question": "営業マネージャーは、商談のフェーズに応じた重要な値を表示するために何が実装できるかを知りたがっています。この要件を満たすために、管理者はどのツールを使用すべきでしょうか。",
+        "choices": ["商談セールスプロセス", "動的フォーム", "パスの重要な項目", "ワークフロールール"],
+        "answer": "パスの重要な項目"
     }
 ]
